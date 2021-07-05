@@ -8,7 +8,7 @@ alternative_names:
 aphelion_km: 152100000
 perihelion_km: 147095000
 semi_major_axis_km: 149598023
-eccentricity:	0.0167086
+eccentricity: 0.0167086
 orbital_period:	365.256363004
 average_orbital_speed_kmh: 107200
 mean_anomaly:	358.617
