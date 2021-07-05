@@ -1,0 +1,20 @@
+name: Mars
+alternative_names: []
+aphelion_km: 249200000
+perihelion_km: 206700000
+semi_major_axis_km: 227939200
+eccentricity: 0.0934
+orbital_period:	686.971
+average_orbital_speed_kmh: 86430
+mean_anomaly:	19.412
+argument_of_perihelion:	286.502
+satellites:
+  - Phobos
+  - Deimos
+mean_radius_km: 3389.5
+volume_km3:	1.6318×10^11
+mass_kg: 6.4171×10^23
+mean_density_gcm3: 3.9335
+surface_gravity_g: 0.3794
+escape_velocity_kms: 5.027
+rotation_period: 1.028
