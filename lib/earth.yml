@@ -1,0 +1,24 @@
+name: Earth
+alternative_names:
+  - Gaia
+  - Terra
+  - Tellu
+  - the world
+  - the globe
+aphelion_km: 152100000
+perihelion_km: 147095000
+semi_major_axis_km: 149598023
+eccentricity:	0.0167086
+orbital_period:	365.256363004
+average_orbital_speed_kmh: 107200
+mean_anomaly:	358.617
+argument_of_perihelion:	114.20783
+satellites:
+  - Moon
+mean_radius_km: 6371.0
+volume_km3: 1.08321×10^12
+mass_kg: 5.97237×10^24
+mean_density_gcm3: 5.514
+surface_gravity_g: 1
+escape_velocity_kms: 11.186
+rotation_period: 1
